@@ -1,0 +1,71 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,5.0.2-5.fc29*
+G04 #@! TF.CreationDate,2019-09-28T03:24:05+07:00*
+G04 #@! TF.ProjectId,VibrateInsectBoard,56696272-6174-4654-996e-73656374426f,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX45Y45*%
+G04 Gerber Fmt 4.5, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 5.0.2-5.fc29) date Sat 28 Sep 2019 03:24:05 AM +07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.700000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11C,1.750000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD12C,1.600000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD13C,1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD14R,1.250000X1.500000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD15R,1.100000X1.500000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,BT1,2*
+G04 #@! TO.N,Net-(BT1-Pad2)*
+X16500000Y-11455000D03*
+G04 #@! TO.P,BT1,1*
+G04 #@! TO.N,Net-(BT1-Pad1)*
+X16500000Y-9450000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,SW1,MP*
+G04 #@! TO.N,N/C*
+X17075000Y-8800000D03*
+X15925000Y-8800000D03*
+D12*
+G04 #@! TO.P,SW1,3*
+G04 #@! TO.N,Net-(SW1-Pad3)*
+X16800000Y-8800000D03*
+G04 #@! TO.P,SW1,2*
+G04 #@! TO.N,Net-(BT1-Pad1)*
+X16500000Y-8800000D03*
+G04 #@! TO.P,SW1,1*
+G04 #@! TO.N,Net-(M1-Pad1)*
+X16200000Y-8800000D03*
+G04 #@! TD*
+D13*
+G04 #@! TO.P,M1,2*
+G04 #@! TO.N,Net-(BT1-Pad2)*
+X16657500Y-8300000D03*
+G04 #@! TO.P,M1,1*
+G04 #@! TO.N,Net-(M1-Pad1)*
+X16342500Y-8300000D03*
+D14*
+G04 #@! TO.P,M1,MP*
+G04 #@! TO.N,N/C*
+X16500000Y-7275000D03*
+D15*
+X16500000Y-8300000D03*
+G04 #@! TD*
+M02*
